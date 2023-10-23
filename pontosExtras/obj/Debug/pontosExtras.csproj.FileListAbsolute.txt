@@ -1,0 +1,11 @@
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\bin\Debug\pontosExtras.exe.config
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\bin\Debug\pontosExtras.exe
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\bin\Debug\pontosExtras.pdb
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\obj\Debug\pontosExtras.csproj.AssemblyReference.cache
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\obj\Debug\pontosExtras.csproj.SuggestedBindingRedirects.cache
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\obj\Debug\pontosExtras.Form1.resources
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\obj\Debug\pontosExtras.Properties.Resources.resources
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\obj\Debug\pontosExtras.csproj.GenerateResource.cache
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\obj\Debug\pontosExtras.csproj.CoreCompileInputs.cache
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\obj\Debug\pontosExtras.exe
+C:\Users\secun\source\repos\pontosExtras\pontosExtras\obj\Debug\pontosExtras.pdb
